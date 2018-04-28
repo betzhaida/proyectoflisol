@@ -17,6 +17,3 @@ var function division(a,b){
 var function sumaa(a,b){
 	return (a+b)*a;
 }
-var function sumaa(a,b){
-	return a^b;
-}
