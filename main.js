@@ -9,7 +9,8 @@ var function resta(a,b){
 var function multiplicacion(a,b){
 	return a*b;
 }
-var function division(a,b){
+var function division(a,b)
+{
 	if (b==0)
 
 	return -1;
