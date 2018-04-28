@@ -10,7 +10,9 @@ var function multiplicacion(a,b){
 	return a*b;
 }
 var function division(a,b){
-	return a/b;
+	if (b==0)
+
+	return -1;
 }
 var function sumaa(a,b){
 	return (a+b)*a;
